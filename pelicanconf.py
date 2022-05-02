@@ -29,3 +29,7 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME = './themes/newbird-pelican-theme/'                          # make sure path points to folder where you cloned the theme
+DEFAULT_DATE_FORMAT = "%b %d, %Y"                 # short date format, optional but recommended 
+USER_LOGO_URL = "http://i.imgur.com/zzCRZUH.jpg"  # change URL to point to desired logo for site
