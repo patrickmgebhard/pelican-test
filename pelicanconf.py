@@ -1,4 +1,4 @@
-AUTHOR = 'Patrick Gebhard'
+AUTHOR = 'Paddy Gebhard'
 SITENAME = "Paddy Gebhard"
 SITEURL = ''
 
